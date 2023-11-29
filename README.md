@@ -13,6 +13,11 @@ use machine learning and Data Analytics aproach to find a pattern in User beahav
   - task creation
   - task tracking
   - monthly statistics.
+  - Modern and Minimalistic:
+
+    - Primary Color: #212121 (Black)
+    - Secondary Color: #FFFFFF (White)
+    - Accent Color: #FF4081 (Pink)
 
 ### - [ ]3. Database Management
 
